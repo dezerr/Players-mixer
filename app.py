@@ -21,7 +21,7 @@ try:
         arrNameOfPLayer = []
 
         while i < numberOfPlayer:
-            nameOfPlayer = input("Quels sont le nom du joueur " + str(iPlusOne)  + " ? : ")
+            nameOfPlayer = input("Quel est le nom du joueur " + str(iPlusOne)  + " ? : ")
             arrNameOfPLayer.append(nameOfPlayer)
             i = i + 1
             iPlusOne = iPlusOne + 1
