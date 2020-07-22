@@ -9,7 +9,7 @@
 Launch with "python3 app.py"<br>
 Done that way :
 `python3 app.py`<br>
-And follow the instructions
+And follow the instructions.
 
 ## Contact
 My [Twitter](https://twitter.com/dezerr_)
