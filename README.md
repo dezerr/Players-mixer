@@ -9,7 +9,7 @@
 ## How it works
 Launch with "python3 app.py"<br>
 Done that way :
-`python3 app.py`
+`python3 app.py`<br>
 And follow the instructions
 
 ## Contact
@@ -27,7 +27,7 @@ My [Twitter](https://twitter.com/dezerr_)
 ## Comment ça marche
 Lancer avec "python3 app.py"<br>
 Fait de cette façon :
-`python3 app.py`
+`python3 app.py`<br>
 Et suivez les instructions
 
 ## Contact
