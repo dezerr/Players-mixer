@@ -1,6 +1,5 @@
 # Players-mixer
 
-# 🇬🇧
 ## Installation
 
 `git clone https://github.com/dezerr/Players-mixer.git`
@@ -14,21 +13,3 @@ And follow the instructions
 
 ## Contact
 My [Twitter](https://twitter.com/dezerr_)
-
-<br><br><br>
-
-# 🇫🇷
-
-## Installation
-
-`git clone https://github.com/dezerr/Players-mixer.git`
-<br>Python3 est requis.
-
-## Comment ça marche
-Lancer avec "python3 app.py"<br>
-Fait de cette façon :
-`python3 app.py`<br>
-Et suivez les instructions
-
-## Contact
-Mon [Twitter](https://twitter.com/dezerr_)
