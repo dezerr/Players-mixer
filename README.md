@@ -1,32 +1,34 @@
 # Players-mixer
 
-# [EN]
-# Installation
+# 🇬🇧
+## Installation
 
 `git clone https://github.com/dezerr/Players-mixer.git`
 <br>Python3 is required.
 
-# How it works
+## How it works
 Launch with "python3 app.py"<br>
 Done that way :
 `python3 app.py`
 And follow the instructions
 
-# Contact
+## Contact
 My [Twitter](https://twitter.com/dezerr_)
+
+<br><br><br>
 
 # [FR]
 
-# Installation
+## Installation
 
 `git clone https://github.com/dezerr/Players-mixer.git`
 <br>Python3 est requis.
 
-# Comment ça marche
+## Comment ça marche
 Lancer avec "python3 app.py"<br>
 Fait de cette façon :
 `python3 app.py`
 Et suivez les instructions
 
-# Contact
+## Contact
 My [Twitter](https://twitter.com/dezerr_)
