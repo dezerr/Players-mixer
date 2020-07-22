@@ -17,7 +17,7 @@ My [Twitter](https://twitter.com/dezerr_)
 
 <br><br><br>
 
-# [FR]
+# 🇫🇷
 
 ## Installation
 
@@ -31,4 +31,4 @@ Fait de cette façon :
 Et suivez les instructions
 
 ## Contact
-My [Twitter](https://twitter.com/dezerr_)
+Mon [Twitter](https://twitter.com/dezerr_)
